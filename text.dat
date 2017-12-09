@@ -1,0 +1,8 @@
+Depth of a node - Number of edges from the root nodes to the node
+Height of a tree - One more than the depth of the deepest node
+
+Full binary tree- every node other than the leaves has two children, i.e. either has two children or none.
+
+Balanced binary tree = the height of the left and right subtrees of every node differ by 1 or fewer
+
+Complete binary tree - the tree is filled starting at root from left to right and all levels except the last level should be full.
